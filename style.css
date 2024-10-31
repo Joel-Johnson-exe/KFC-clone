@@ -220,7 +220,7 @@ a{
 }
 .menu-container{
     display: flex;
-    margin: 80px 285px;
+    margin: 80px 285px 80px 220px;
     text-align: center;
     gap: 20px;
     margin-bottom: -50px;
