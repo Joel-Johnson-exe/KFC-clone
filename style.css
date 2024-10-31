@@ -65,7 +65,7 @@ a{
     width: 50%;
     height: 50px;
     font-family:"open sans";
-    font-size: 12px;
+    font-size: 14px;
 }
 .top-bar .top-bar-left .img-logo {
     margin-left: 132px;
@@ -127,7 +127,7 @@ a{
 }
 .top-bar .sign-in{
     font-family:"poppins";
-    font-size: 13px;
+    font-size: 14px;
     margin-left: 35px;
     margin-top: 15px;
     text-decoration: none;
